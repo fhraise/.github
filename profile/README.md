@@ -4,6 +4,6 @@ We are **HSAS Foodies**, we are devoted to create an **AI-Powered Dining Experie
 
 ## About the name ...
 
-The name *fhraise* is an acronym for *Future HSAS Restaurant AI-Powered Smart Experience*.
+The name *fhraise* /ˈfreɪz/ is an acronym for *Future HSAS Restaurant AI-Powered Smart Experience*.
 
 Our Chinese name is *南科宝宝爱吃饭*.
